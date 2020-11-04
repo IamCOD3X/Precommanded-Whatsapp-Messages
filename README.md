@@ -1,6 +1,6 @@
 # Precommanded-Whatsapp-Messages
  A python script to automatically send whatsapp messages.
- Can send infinty messages with single click to a single contact or multipal contact at the same time.
+ Can send infinty messages with single click to a single contact or multiple contact at the same time.
 
 
 
